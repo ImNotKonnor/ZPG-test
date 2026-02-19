@@ -1,0 +1,527 @@
+{
+  "overweight_farming:building_blocks/waxed_seedless_peeled_melon_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "overweight_farming:building_blocks/waxed_seeded_peeled_melon_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "pizzadelight:root": {
+    "criteria": {
+      "tick": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/root": {
+    "criteria": {
+      "seeds": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "overweight_farming:building_blocks/waxed_half_seeded_peeled_melon_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/metal": {
+    "criteria": {
+      "has_deepslate": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "overweight_farming:building_blocks/vegetable_compost": {
+    "criteria": {
+      "has_the_recipe": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2026-02-19 04:04:24 +0000",
+      "wild_strawberry": "2026-02-19 04:04:24 +0000",
+      "corn": "2026-02-19 04:04:24 +0000",
+      "onion": "2026-02-19 04:04:24 +0000",
+      "wild_corn": "2026-02-19 04:04:24 +0000",
+      "wild_ribwort": "2026-02-19 04:04:24 +0000",
+      "strawberry": "2026-02-19 04:04:24 +0000",
+      "wild_nettle": "2026-02-19 04:04:24 +0000",
+      "barley": "2026-02-19 04:04:24 +0000",
+      "tomato": "2026-02-19 04:04:24 +0000",
+      "lettuce": "2026-02-19 04:04:24 +0000",
+      "wild_lettuce": "2026-02-19 04:04:24 +0000",
+      "wild_tomatoes": "2026-02-19 04:04:24 +0000",
+      "oat_seeds": "2026-02-19 04:04:24 +0000",
+      "tomato_seeds": "2026-02-19 04:04:24 +0000",
+      "barley_seeds": "2026-02-19 04:04:24 +0000",
+      "strawberry_seeds": "2026-02-19 04:04:24 +0000",
+      "lettuce_seeds": "2026-02-19 04:04:24 +0000",
+      "kernels": "2026-02-19 04:04:24 +0000",
+      "wild_barley": "2026-02-19 04:04:24 +0000",
+      "wild_onion": "2026-02-19 04:04:24 +0000",
+      "wild_oat": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2026-02-19 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2026-02-19 04:04:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2026-02-19 04:04:25 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "prairie": "2026-02-19 04:04:25 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2026-02-19 04:04:25 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "coniferous_forest": "2026-02-19 04:48:27 +0000",
+      "spider_nest": "2026-02-19 04:09:53 +0000",
+      "redwood_forest": "2026-02-19 04:43:51 +0000",
+      "aspen_glade": "2026-02-19 04:48:45 +0000",
+      "seasonal_forest": "2026-02-19 04:48:30 +0000",
+      "lavender_field": "2026-02-19 04:47:50 +0000",
+      "fir_clearing": "2026-02-19 04:48:42 +0000",
+      "prairie": "2026-02-19 04:04:25 +0000"
+    },
+    "done": false
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2026-02-19 04:04:25 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2026-02-19 04:04:25 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2026-02-19 04:06:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-02-19 04:06:29 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2026-02-19 04:08:13 +0000"
+    },
+    "done": true
+  },
+  "beautify:blinds": {
+    "criteria": {
+      "requirement": "2026-02-19 04:08:13 +0000"
+    },
+    "done": true
+  },
+  "beautify:trellis": {
+    "criteria": {
+      "requirement": "2026-02-19 04:08:13 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak_planks": {
+    "criteria": {
+      "has_planks": "2026-02-19 04:08:21 +0000"
+    },
+    "done": true
+  },
+  "immersive_furniture:misc/furniture_crafter": {
+    "criteria": {
+      "has_item": "2026-02-19 04:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-02-19 04:08:25 +0000"
+    },
+    "done": true
+  },
+  "thinair:protection_from_yellow": {
+    "criteria": {
+      "protecc": "2026-02-19 04:09:45 +0000"
+    },
+    "done": true
+  },
+  "thinair:protection_from_red": {
+    "criteria": {
+      "protecc": "2026-02-19 04:09:45 +0000"
+    },
+    "done": true
+  },
+  "thinair:root": {
+    "criteria": {
+      "bad_air": "2026-02-19 04:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-02-19 04:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2026-02-19 04:40:57 +0000",
+      "minecraft:cave_spider": "2026-02-19 04:10:09 +0000",
+      "minecraft:zombie": "2026-02-19 04:12:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:cave_spider": "2026-02-19 04:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2026-02-19 04:10:16 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cobblestone": {
+    "criteria": {
+      "has_planks": "2026-02-19 04:10:16 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2026-02-19 04:12:05 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "dirt": "2026-02-19 04:12:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2026-02-19 04:13:36 +0000"
+    },
+    "done": true
+  },
+  "thinair:signal_torch": {
+    "criteria": {
+      "use": "2026-02-19 04:19:31 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2026-02-19 04:27:39 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2026-02-19 05:43:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2026-02-19 05:43:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2026-02-19 05:43:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2026-02-19 05:43:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2026-02-19 05:43:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2026-02-19 05:43:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2026-02-19 05:43:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2026-02-19 05:43:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2026-02-19 05:43:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2026-02-19 05:43:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2026-02-19 05:43:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2026-02-19 05:43:16 +0000"
+    },
+    "done": false
+  },
+  "beautify:lamps": {
+    "criteria": {
+      "requirement": "2026-02-19 05:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cherry_grove": "2026-02-19 05:25:08 +0000",
+      "minecraft:river": "2026-02-19 04:45:58 +0000"
+    },
+    "done": false
+  },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2026-02-19 05:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "upgrade_aquatic:mulberry": "2026-02-19 04:47:13 +0000",
+      "cooked_mutton": "2026-02-19 05:26:43 +0000"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2026-02-19 05:23:36 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
